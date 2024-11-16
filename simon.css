@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+#bigbox{
+    width: 80vh;
+    height: 60vh;
+    /* border: 2px solid black; */
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.box{
+    width: 45%;
+    height: 45%;
+    border: 4px solid black;
+    border-radius: 15px;
+    margin: 8px;
+    
+    
+}
+.box1{
+    background-color: #d95980;
+    
+}
+.box2{
+    background-color: #63aac0;
+  
+}
+.box3{
+    background-color: #f99b45;
+   
+}
+.box4{
+    background-color: #819ff9;
+    
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}

@@ -1,1 +1,1 @@
-# project6
+# simon game
